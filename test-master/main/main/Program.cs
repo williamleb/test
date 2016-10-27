@@ -15,7 +15,7 @@ namespace main
       while (true)
       {
         Console.WriteLine("It's alive!!!");
-        Console.WriteLine("Nevermind he's too ugly.");
+        Console.WriteLine("Neverminsw too ugly.");
       }
       
     }
