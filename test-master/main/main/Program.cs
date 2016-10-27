@@ -16,6 +16,7 @@ namespace main
       {
         Console.WriteLine("It's alive!!!");
         Console.WriteLine("Neverminsw too ugly.");
+        Console.WriteLine("u shall nut pass");
       }
       
     }
