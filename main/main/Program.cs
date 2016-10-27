@@ -10,11 +10,11 @@ namespace main
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Meilleur programme au monde.");
-      Console.Beep(2000, 50000);
+      Console.WriteLine(":'(");
+      Console.Beep(2030, 5200);
       while (true)
       {
-        Console.WriteLine("It's alive!!!");
+        Console.WriteLine("It's ivre!!!");
       }
       
     }
