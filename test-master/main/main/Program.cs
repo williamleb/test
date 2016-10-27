@@ -12,6 +12,12 @@ namespace main
     {
       Console.WriteLine("Meilleur programme au monde.");
       Console.Beep(2000, 50000);
+      while (true)
+      {
+        Console.WriteLine("It's alive!!!");
+        Console.WriteLine("Nevermind he's too ugly.");
+      }
+      
     }
   }
 }
